@@ -1,0 +1,64 @@
+body{
+    background-color: lightblue;
+}
+.header{
+    background-color: rgb(5, 7, 131);
+    height: 80%;
+    width: 25%;
+   margin-top: 40px;
+    margin-bottom: 50px;
+   text-align: center;
+    padding: 5px;
+    border-style: dashed;
+    margin-left: 5px;
+}
+.header img{
+    width: 300px;
+}
+#head{
+    color: lightblue;
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.main_div{
+    background-color: rgb(5, 7, 131);
+    text-align: center;
+      border-style: dashed;
+      margin-left: 20px;
+}
+#camera ,#result{
+    border: 2px dotted bisque;
+    height: 300px;
+    width: 310px;
+    text-align: center;
+}
+.answer{
+    background-color: rgb(5, 7, 131);
+    box-shadow: 20px 20px 10px white;
+    border-radius: 10px;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.answer img{
+    width: 100px;
+}
+.h1{
+    color: lightblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+}
+.footer{
+    background-color: hotpink;
+    color: rgb(238, 31, 31);
+    line-height: 5;
+    font-weight: bold;
+    position: fixed; 
+    text-align: center;
+    bottom: 0;
+    font-size: 20px;
+}
+label{
+    color: lightpink;}
+    
